@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="35px" height="34px" viewBox="0 0 35 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="KaiVisi.fh8" transform="translate(-222.000000, -26.000000)">
+            <g id="Group" transform="translate(223.621000, 27.192000)">
+                <polygon id="Stroke-3" stroke="#1A1919" stroke-width="0.283" stroke-linejoin="round" points="5.771 10.446 13.351 5.254 25.374 8.139 22.185 10.973 15.791 9.289 12.022 12.218"></polygon>
+                <polygon id="Fill-4" fill="#1A1919" points="5.771 10.446 6.349 22.729 18.454 26.853 18.588 20.734 12.112 18.694 12.022 12.218"></polygon>
+                <polygon id="Stroke-5" stroke="#1A1919" stroke-width="0.283" stroke-linejoin="round" points="5.771 10.446 6.349 22.729 18.454 26.853 18.588 20.734 12.112 18.694 12.022 12.218"></polygon>
+                <path d="M25.374,8.139 L24.796,20.111 L18.454,26.853 L18.588,20.734 L22.007,17.278 L22.185,10.973 L25.374,8.139 Z M12.112,18.605 L15.791,15.586 L15.791,9.289 L12.022,12.218 L12.112,18.605 Z" id="Stroke-6" stroke="#1A1919" stroke-width="0.283" stroke-linejoin="round"></path>
+                <polygon id="Fill-7" fill="#1A1919" points="22.007 17.322 15.791 15.586 15.791 9.289 22.185 10.973"></polygon>
+                <polygon id="Stroke-8" stroke="#1A1919" stroke-width="0.283" stroke-linejoin="round" points="22.007 17.322 15.791 15.586 15.791 9.289 22.185 10.973"></polygon>
+                <path d="M1.42108547e-14,15.969 C1.42108547e-14,12.8422875 0.898429528,9.92557307 2.45123786,7.46290735 C5.27867543,2.97875211 10.2757125,0 15.969,0 C19.3346763,0 22.4571197,1.04124112 25.0317788,2.81922774 C29.2034365,5.70005629 31.937,10.515058 31.937,15.969 C31.937,24.788 24.788,31.937 15.969,31.937 C7.149,31.937 1.42108547e-14,24.788 1.42108547e-14,15.969 Z" id="Stroke-9" stroke="#A20606" stroke-width="1.417"></path>
+            </g>
+        </g>
+    </g>
+</svg>
