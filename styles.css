@@ -1,6 +1,7 @@
 html, body {
   padding: 0;
   margin: 0;
+  background-color: rgb(240, 240, 240);
 }
 
 
@@ -8,6 +9,7 @@ html, body {
 main{
     width: 1120px;
     margin: 0 auto;
+    margin-top: 200px;
 }
 
 :root {
@@ -87,7 +89,48 @@ button.splide__pagination__page.is-active {
 .splide__arrow svg {
   opacity: 0;
 }
+.projectgrid{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-gap: 1rem;
+  margin-top: 200px;
+}
 
+.project{
+  width: 100%;
+  height: 268px;
+  background-size: cover;
+  position: relative;
+}
+
+.project:hover .projectinfo{
+  opacity: 0.5;
+  transition: 0.3s;
+  cursor: pointer;
+}
+.project:hover .projecttext{
+  opacity: 1;
+  transition: 0.3s;
+}
+
+.projectinfo{
+  width: 100%;
+  height: 100%;
+  background-color: black;
+  opacity: 0;
+  transition: 0.3s;
+  
+}
+
+.projecttext{
+  position: absolute;
+  bottom: 24px;
+  left: 32px;
+  color: white;
+  font-size: 30px;
+  opacity: 0;
+
+}
 @media only screen and (min-width: 1024px) and (max-width: 1119px) {
   /* iPad landscape */
   main {
