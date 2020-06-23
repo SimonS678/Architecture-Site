@@ -1,13 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
 html, body {
   padding: 0;
   margin: 0;
   background-color: rgb(240, 240, 240);
+  font-family: 'Roboto', sans-serif;
 }
 
 main{
     width: 1120px;
     margin: 0 auto;
-    margin-top: 120px;
+}
+
+header {
+  height: 120px;
 }
 
 :root {
@@ -87,12 +93,15 @@ button.splide__pagination__page.is-active {
 .splide__arrow svg {
   opacity: 0;
 }
+
+/* Project Grid styles*/
+
 .projectgrid{
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
   grid-gap: 1rem;
-  margin-top: 200px;
   margin-bottom: 100px;
+  margin-top: 120px;
 }
 
 .project{
@@ -102,7 +111,8 @@ button.splide__pagination__page.is-active {
   position: relative;
 }
 
-.project:hover .projectinfo{
+.project:hover .projectinfo,
+.project:active .projectinfo {
   opacity: 0.5;
   transition: 0.3s;
   cursor: pointer;
@@ -124,17 +134,19 @@ button.splide__pagination__page.is-active {
 
 .projecttext{
   position: absolute;
-  bottom: 20px;
-  left: 24px;
+  bottom: 16px;
+  left: 20px;
   color: white;
-  font-size: 28px;
+  font-size: 20px;
   opacity: 0;
-
 }
 @media only screen and (min-width: 1024px) and (max-width: 1119px) {
   /* iPad landscape */
   main {
     width: 992px;
+  }
+  header {
+    height: 80px;
   }
   .slide__container {
     height: 685px;
@@ -172,6 +184,9 @@ button.splide__pagination__page.is-active {
   main {
     width: 100vw;
   }
+  header {
+    height: 60px;
+  }
   .slide__container {
     height: 150vw;
   }
@@ -191,6 +206,11 @@ button.splide__pagination__page.is-active {
   }
   .project{
     height: calc(33vw - 16px);
+  }
+  .projecttext{
+    bottom: 8px;
+    left: 10px;
+    font-size: 14px;
   }
 }
 
