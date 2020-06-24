@@ -214,8 +214,11 @@ button.splide__pagination__page.is-active {
   }
 }
 
-.Unterseite{
-  background-image: url(imgs/Kartäuserhof/01Vorher/Kartäuserhof1.JPG);
-  height: 100vh;
-  width: 100vw;
+.responsive-img{
+  max-width: 100%;
+}
+
+.caption{
+  margin-top: 5px;
+  margin-bottom: 50px;
 }
