@@ -14,6 +14,7 @@ main{
 
 header {
   height: 120px;
+  position: relative;
 }
 
 :root {
@@ -140,6 +141,28 @@ button.splide__pagination__page.is-active {
   font-size: 20px;
   opacity: 0;
 }
+
+.logo{
+  position: absolute;
+  top: 20px;
+  right: 0px;
+  width: 80px;
+}
+
+.header-text{
+  width: 200px;
+  position: absolute;
+  top: 28px;
+}
+
+.logo-line{
+  height: 2px;
+  width: calc(100% - 140px);
+  background-color: black;
+  position: absolute;
+  top: 59px;
+}
+
 @media only screen and (min-width: 1024px) and (max-width: 1119px) {
   /* iPad landscape */
   main {
@@ -156,6 +179,26 @@ button.splide__pagination__page.is-active {
   }
   .project{
     height: 152px;
+  }
+  .logo{
+    position: absolute;
+    top: 10px;
+    right: 0px;
+    width: 60px;
+  }
+
+  .header-text{
+    width: 150px;
+    position: absolute;
+    top: 16px;
+  }
+
+  .logo-line{
+    height: 2px;
+    width: calc(100% - 120px);
+    background-color: black;
+    position: absolute;
+    top: 39px;
   }
 }
 
@@ -212,6 +255,28 @@ button.splide__pagination__page.is-active {
     left: 10px;
     font-size: 14px;
   }
+  .logo{
+    position: absolute;
+    top: 10px;
+    right: 16px;
+    width: 40px;
+  }
+
+  .header-text{
+    width: 100px;
+    position: absolute;
+    top: 14px;
+    left: 16px;
+  }
+
+  .logo-line{
+    height: 1px;
+    width: calc(100% - 110px);
+    background-color: black;
+    position: absolute;
+    top: 29px;
+    left: 16px;
+  }
 }
 
 .responsive-img{
@@ -221,4 +286,9 @@ button.splide__pagination__page.is-active {
 .caption{
   margin-top: 5px;
   margin-bottom: 50px;
+}
+
+.timestamps{
+  height: 20px;
+  width: 100px;
 }
