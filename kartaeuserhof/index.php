@@ -1,30 +1,21 @@
 <!DOCTYPE html>
 <html lang="de">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="stylesheet" href="../styles.css">
-</head>
+<?php
+    $title = 'Kai Matzak Architekt Kartäuserhof 19, Köln';
+    include_once('../partials/head.php')
+?>
 
 <body>
     <main>
-        <header>
-            <div class="logo-line"></div>
-            <a href="../index.html">
-                <img class="header-text" src="../imgs/Kai-Matzak-Schrift.svg" alt="Kai-Matzak-Schrift">
-            </a>
-            <a href="../index.html"> 
-                <img class="logo" src="../imgs/Kai-Matzak-Logo.svg" alt="Kai-Matzak-Logo">
-            </a>
-            <div class="site-info">Kartäuserhof 19, Köln</div>
-            <nav>
-            <a href="vor-dem-umbau.html">Vorher</a>
-            <a href="planung.html">Planung</a>
-            <a href="umbau.html">Umbau</a>
-            <a class="active" href="index.html">Nachher</a>
-            </nav>
-        </header>
+        <?php
+            $siteInfo = 'Kartäuserhof 19, Köln';
+            $link1 = ['vorher.php','Vorher', ''];
+            $link2 = ['planung.php','Planung', ''];
+            $link3 = ['umbau.php','Umbau', ''];
+            $link4 = ['index.php','Nachher', 'active'];
+            $links = [$link1, $link2, $link3, $link4];
+            include_once('../partials/header.php');
+        ?>
         
         <div class="slide__container slide__grid">
             <div class="slide__left" style="background-image: url(../kartaeuserhof/imgs/04Nachher/Nachher3.JPG);"></div> 
@@ -68,8 +59,9 @@
         <img class="responsive-img" src="../kartaeuserhof/imgs/04Nachher/05-13K19Umbau.JPG" alt="Bild">
         <img class="responsive-img" src="../kartaeuserhof/imgs/04Nachher/05-15K19Umbau.JPG" alt="Bild">
         <img class="responsive-img" src="../kartaeuserhof/imgs/04Nachher/05-19K19Umbau.JPG" alt="Bild">
-        
-       
     </main>
+    <?php 
+        include_once('../partials/footer.php');
+    ?>
 </body>
 </html>

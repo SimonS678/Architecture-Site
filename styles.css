@@ -17,6 +17,11 @@ header {
   position: relative;
 }
 
+footer {
+  background-color: #898989;
+  height: 200px;
+}
+
 :root {
   --main-radius: 0px;
 }
@@ -160,8 +165,8 @@ button.splide__pagination__page.is-active {
 }
 
 .logo-line{
-  height: 2px;
-  width: calc(100% - 140px);
+  height: 1px;
+  width: calc(100% - 100px);
   background-color: black;
   position: absolute;
   top: 59px;
