@@ -6,6 +6,9 @@ html, body {
   background-color: rgb(240, 240, 240);
   font-family: 'Roboto', sans-serif;
 }
+* {
+  box-sizing: border-box;
+}
 
 main{
     width: 1120px;
@@ -44,6 +47,15 @@ footer {
   grid-gap: 1rem;
 }
 
+.slide__grid_2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr ;
+  grid-template-areas:
+    "sidebar main";
+  grid-gap: 1rem;
+}
+
 .slide__grid--margin{
   margin-bottom: 80px;
 }
@@ -55,12 +67,6 @@ footer {
   height: 100%;
 }
 
-.slide__left {
-  background-size: cover;
-  background-position: center center;
-  grid-area: sidebar;
-}
-  
 .slide__left {
   background-size: cover;
   background-position: center center;
@@ -208,6 +214,12 @@ nav a:last-child{
   font-size: 16px;
 }
 
+.caption{
+  margin-top: 5px;
+  margin-bottom: 50px;
+  width: 45%;
+}
+
 @media only screen and (min-width: 1024px) and (max-width: 1119px) {
   /* iPad landscape */
   main {
@@ -285,15 +297,44 @@ nav a:last-child{
     height: 60px;
   }
   .slide__container {
-    height: 150vw;
+    height: 282vw;
   }
   .slide__grid {
     grid-gap: 0;
     grid-template-columns: 1fr;
-    grid-template-rows: 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
     grid-template-areas:
-      "sidebar";
+      "sidebar"
+      "main"
+      "content1";
   }
+  .slide__grid_2 {
+    display: grid;
+    grid-template-columns: 1fr ;
+    grid-template-rows: 1fr 1fr ;
+    grid-template-areas:
+      "sidebar" 
+      "main";
+    grid-gap: 1rem;
+  }
+
+
+  .slide__grid .slide__left {
+    height: 150vw;
+  }
+  
+  .slide__grid .slide__right-up {
+    height: 66vw;
+  }
+    
+  .slide__grid .slide__right-down {
+    height: 66vw;
+  }
+
+
+
+
+
   .splide__arrow {
     display: none;
   }
@@ -339,6 +380,14 @@ nav a:last-child{
   nav{
     bottom: 16px;
   }
+
+  .caption{
+    margin-top: 5px;
+    margin-bottom: 50px;
+    width: 100%;
+    padding-left: 16px;
+    padding-right: 16px;
+  }
 }
 
 .responsive-img{
@@ -346,8 +395,5 @@ nav a:last-child{
   margin-bottom: 80px;
 }
 
-.caption{
-  margin-top: 5px;
-  margin-bottom: 50px;
-}
+
 

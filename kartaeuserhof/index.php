@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html lang="de">
 <?php
-    $title = 'Kai Matzak Architekt Kartäuserhof 19, Köln';
+    $title = 'Kai Matzak Architekt 2006, Kartäuserhof 19, Köln';
     include_once('../partials/head.php')
 ?>
 
 <body>
     <main>
         <?php
-            $siteInfo = 'Kartäuserhof 19, Köln';
+            $siteInfo = '2006, Kartäuserhof 19, Köln';
             $link1 = ['vorher.php','Vorher', ''];
             $link2 = ['planung.php','Planung', ''];
             $link3 = ['umbau.php','Umbau', ''];
@@ -22,14 +22,15 @@
             <div class="slide__right-up" style="background-image: url(../kartaeuserhof/imgs/04Nachher/Nachher2.JPG);"></div>
             <div class="slide__right-down" style="background-image: url(../kartaeuserhof/imgs/04Nachher/Wohnzimmer.JPG);"></div>
         </div>
-        <p class="caption">Sanierung, Umbau und Erweiterung eines
+
+        <p class="caption" ><strong>2006, Kartäuserhof 19, Köln </strong> <br> Sanierung, Umbau und Erweiterung eines
             Mehrfamilienhauses (1962) in der Kölner Südstadt. <br> 
             
             Dachgeschoss und die dritte Etage wurden vollständig entkernt und zusammengelegt.
             Eine Dachterrasse und der nutzbare Spitzboden erweitern die Flächen. <br>
             
-            Bauzeit: 2 Monate
-            </p>
+            Bauzeit: 2 Monate</p>
+
 
         <div class="slide__container slide__grid slide__grid--margin">
             <div class="slide__left" style="background-image: url(../kartaeuserhof/imgs/04Nachher/05-03K19Umbau.JPG);"></div> 
@@ -55,10 +56,16 @@
             <div class="slide__right-down" style="background-image: url(../kartaeuserhof/imgs/04Nachher/05-18K19Umbau.JPG);"></div>
         </div>
 
-        <img class="responsive-img" src="../kartaeuserhof/imgs/04Nachher/05-12K19Umbau.JPG" alt="Bild">
-        <img class="responsive-img" src="../kartaeuserhof/imgs/04Nachher/05-13K19Umbau.JPG" alt="Bild">
-        <img class="responsive-img" src="../kartaeuserhof/imgs/04Nachher/05-15K19Umbau.JPG" alt="Bild">
-        <img class="responsive-img" src="../kartaeuserhof/imgs/04Nachher/05-19K19Umbau.JPG" alt="Bild">
+        <div class="slide__container slide__grid_2 slide__grid--margin">
+            <div class="slide__left" style="background-image: url(../kartaeuserhof/imgs/04Nachher/05-13K19Umbau.JPG);"></div> 
+            <div class="slide__right-up" style="background-image: url(../kartaeuserhof/imgs/04Nachher/05-15K19Umbau.JPG);"></div>
+        </div>
+
+        <div class="slide__container slide__grid_2 slide__grid--margin">
+            <div class="slide__left" style="background-image: url(../kartaeuserhof/imgs/04Nachher/05-19K19Umbau.JPG);"></div> 
+            <div class="slide__right-up" style="background-image: url(../kartaeuserhof/imgs/04Nachher/05-12K19Umbau.JPG);"></div>
+        </div>
+
     </main>
     <?php 
         include_once('../partials/footer.php');
