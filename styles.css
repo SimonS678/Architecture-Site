@@ -31,6 +31,11 @@ footer {
 
 .splide__slide {
   cursor: grab;
+  text-align: center;
+}
+
+.splide__slide img{
+  height: 747px;
 }
 
 .slide__container {
@@ -231,6 +236,9 @@ nav a:last-child{
   .slide__container {
     height: 685px;
   }
+  .splide__slide img{
+    height: 661px;
+  }
   .splide__arrow {
     display: none;
   }
@@ -268,6 +276,14 @@ nav a:last-child{
   .slide__container {
     height: 505px;
   }
+  .splide__slide {
+    display: flex;
+    align-items: center;
+  }
+  .splide__slide img{
+    height: auto;
+    width: 100%;
+  }
   .splide__arrow {
     display: none;
   }
@@ -298,6 +314,14 @@ nav a:last-child{
   }
   .slide__container {
     height: 282vw;
+  }
+  .splide__slide {
+    display: flex;
+    align-items: center;
+  }
+  .splide__slide img{
+    height: auto;
+    width: 100vw;
   }
   .slide__grid {
     grid-gap: 0;

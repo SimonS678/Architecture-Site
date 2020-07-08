@@ -8,6 +8,7 @@
 			autoplay: true,
 			interval: 3000,
 			gap: '16px',
+			lazyLoad: 'nearby'
 		};
 
 
