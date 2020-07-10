@@ -69,6 +69,7 @@
     </main>
     <?php 
         include_once('../partials/footer.php');
+        
     ?>
 </body>
 </html>

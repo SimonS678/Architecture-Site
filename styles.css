@@ -10,6 +10,13 @@ html, body {
   box-sizing: border-box;
 }
 
+a{
+  color: black;
+}
+
+a:hover{
+  color: #a20606;
+}
 main{
     width: 1120px;
     margin: 0 auto;
@@ -22,7 +29,31 @@ header {
 
 footer {
   background-color: #898989;
-  height: 200px;
+}
+
+.contactinfo{
+  text-align: right;
+
+}
+.footer-container{
+  width: 1120px;
+  margin: 0 auto;
+  padding-bottom: 32px;
+  padding-top: 32px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  align-items: end;
+}
+
+.footer-links a{
+  text-decoration: none;
+  display: inline-block;
+  border-right: 1px solid black;
+  padding-right: 7px;
+  padding-left: 4px;
+}
+.footer-links a:last-child{
+  border-right: none;
 }
 
 :root {
@@ -164,7 +195,7 @@ button.splide__pagination__page.is-active {
   bottom: 16px;
   left: 20px;
   color: white;
-  font-size: 20px;
+  font-size: 15px;
   opacity: 0;
 }
 
@@ -226,8 +257,8 @@ nav a:last-child{
 }
 
 .caption{
-  margin-top: 5px;
-  margin-bottom: 50px;
+  margin-top: 28px;
+  margin-bottom: 32px;
   width: 45%;
 }
 
@@ -271,6 +302,11 @@ nav a:last-child{
     position: absolute;
     top: 39px;
   }
+  .footer-container{
+    width: 992px;
+    display: grid;
+    grid-template-columns: 0fr 1fr 1fr;
+  }
 }
 
 
@@ -308,6 +344,11 @@ nav a:last-child{
   nav{
     bottom: 20px;
   }
+  .footer-container{
+    width: 736px;
+    display: grid;
+    grid-template-columns: 0fr 1fr 1fr;
+  }
 }
 
 @media only screen and (max-width: 550px) {
@@ -320,6 +361,17 @@ nav a:last-child{
   }
   header.has-no-navigation{
     height: 60px;
+  }
+  .footer-container{
+    width: 100vw;
+    display: grid;
+    grid-template-columns: 2fr;
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+  .footer-links{
+    text-align: center;
+    margin-bottom: 32px;
   }
   .text__grid {
     grid-template-columns: 1fr;
