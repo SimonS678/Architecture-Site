@@ -12,6 +12,6 @@
         foreach($links as $link) {
             echo '<a href="'.$link[0].'" class="'.$link[2].'">'.$link[1].'</a>';
         }
-    ?>
+    ?><a href="../index.html">Zurück</a>
     </nav>
 </header>
