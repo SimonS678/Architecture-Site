@@ -19,8 +19,8 @@
         
         <div class="slide__container slide__grid slide__grid--margin">
             <div class="slide__left" style="background-image: url(../kartaeuserhof/imgs/03Umbau/Umbau4.JPG);"></div> 
-            <div class="slide__right-up" style="background-image: url(../kartaeuserhof/imgs/03Umbau/Umbau2.JPG);"></div>
-            <div class="slide__right-down" style="background-image: url(../kartaeuserhof/imgs/03Umbau/Umbau3.jpg);"></div>
+            <div class="slide__right-up" style="background-image: url(../kartaeuserhof/imgs/03Umbau/05-06K19Umbau.JPG);"></div>
+            <div class="slide__right-down" style="background-image: url(../kartaeuserhof/imgs/03Umbau/05-13K19Umbau.jpg);"></div>
         </div>
 
         <div class="slide__container slide__grid slide__grid--margin">

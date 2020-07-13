@@ -20,7 +20,7 @@
         <div class="slide__container slide__grid slide__grid--margin">
             <div class="slide__left" style="background-image: url(../kartaeuserhof/imgs/02Planung/05-02K19DGPlanung.jpg);"></div> 
             <div class="slide__right-up" style="background-image: url(../kartaeuserhof/imgs/02Planung/05-03K19DetailPlanung.jpg);"></div>
-            <div class="slide__right-down" style="background-image: url(../kartaeuserhof/imgs/02Planung/BadPlanung.jpg);"></div>
+            <div class="slide__right-down" style="background-image: url(../kartaeuserhof/imgs/02Planung/05-04K19BadPlanung.jpg);"></div>
         </div>
 
         <img class="responsive-img" src="../kartaeuserhof/imgs/02Planung/05-01K19OGPlanung.jpg" alt="Bild">

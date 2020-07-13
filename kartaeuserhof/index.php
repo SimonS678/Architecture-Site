@@ -18,9 +18,9 @@
         ?>
         
         <div class="slide__container slide__grid">
-            <div class="slide__left" style="background-image: url(../kartaeuserhof/imgs/04Nachher/Nachher3.JPG);"></div> 
-            <div class="slide__right-up" style="background-image: url(../kartaeuserhof/imgs/04Nachher/Nachher2.JPG);"></div>
-            <div class="slide__right-down" style="background-image: url(../kartaeuserhof/imgs/04Nachher/Wohnzimmer.JPG);"></div>
+            <div class="slide__left" style="background-image: url(../kartaeuserhof/imgs/04Nachher/05-01K19Nachher.JPG);"></div> 
+            <div class="slide__right-up" style="background-image: url(../kartaeuserhof/imgs/04Nachher/05-08K19Umbau.JPG);"></div>
+            <div class="slide__right-down" style="background-image: url(../kartaeuserhof/imgs/04Nachher/05-09K19Umbau.JPG);"></div>
         </div>
 
         <p class="caption" ><strong>2006, Kartäuserhof 19, Köln </strong> <br> Sanierung, Umbau und Erweiterung eines
@@ -47,7 +47,7 @@
         <div class="slide__container slide__grid slide__grid--margin">
             <div class="slide__left" style="background-image: url(../kartaeuserhof/imgs/04Nachher/05-16K19Umbau.JPG);"></div> 
             <div class="slide__right-up" style="background-image: url(../kartaeuserhof/imgs/04Nachher/05-14K19Umbau.JPG);"></div>
-            <div class="slide__right-down" style="background-image: url(../kartaeuserhof/imgs/04Nachher/Nachher1.JPG);"></div>
+            <div class="slide__right-down" style="background-image: url(../kartaeuserhof/imgs/04Nachher/05-04K19Umbau.JPG);"></div>
         </div>
 
         <div class="slide__container slide__grid slide__grid--margin">
