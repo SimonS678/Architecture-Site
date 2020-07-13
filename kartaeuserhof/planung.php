@@ -8,7 +8,7 @@
 <body>
     <main>
     <?php
-            $siteInfo = 'Kartäuserhof 19, Köln';
+            $siteInfo = '2006, Kartäuserhof 19, Köln';
             $link1 = ['vorher.php','Vorher', ''];
             $link2 = ['planung.php','Planung', 'active'];
             $link3 = ['umbau.php','Umbau', ''];
