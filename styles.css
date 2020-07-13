@@ -430,10 +430,6 @@ nav a:last-child{
     height: 66vw;
   }
 
-
-
-
-
   .splide__arrow {
     display: none;
   }
@@ -445,9 +441,9 @@ nav a:last-child{
     height: calc(33vw - 16px);
   }
   .projecttext{
-    bottom: 8px;
-    left: 10px;
-    font-size: 14px;
+    bottom: 6px;
+    left: 8px;
+    font-size: 11px;
   }
   .logo{
     position: absolute;
@@ -481,7 +477,7 @@ nav a:last-child{
   }
 
   .caption{
-    margin-top: 5px;
+    margin-top: 16px;
     margin-bottom: 50px;
     width: 100%;
     padding-left: 16px;
