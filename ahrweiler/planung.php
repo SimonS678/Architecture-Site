@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="de">
 <?php
-    $title = 'Kai Matzak Architekt Kartäuserhof 19, Köln';
+    $title = 'Kai Matzak Architekt Bad Neuenahr-Ahrweiler';
     include_once('../partials/head.php')
 ?>
 
