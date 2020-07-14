@@ -12,7 +12,7 @@
             $link1 = ['vorher.php','Vorher', ''];
             $link3 = ['umbau.php','Umbau', 'active'];
             $link4 = ['index.php','Nachher', ''];
-            $links = [$link1, $link2, $link3, $link4];
+            $links = [$link1, $link3, $link4];
             include_once('../partials/header.php');
         ?>
 

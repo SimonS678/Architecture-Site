@@ -29,7 +29,6 @@
 
         <img class="responsive-img" src="imgs/04Nachher/2017-01RondorfNachher.jpg">
         <img class="responsive-img" src="imgs/04Nachher/2017-02RondorfNachher.jpg">
-        <img class="responsive-img" src="imgs/04Nachher/2017-06RondorfNachher.jpg">
         <img class="responsive-img" src="imgs/04Nachher/2017-07RondorfNachher.jpg">
         <img class="responsive-img" src="imgs/04Nachher/2017-08RondorfNachher.jpg">
         <img class="responsive-img" src="imgs/04Nachher/2017-09RondorfNachher.jpg">
@@ -38,7 +37,6 @@
         <img class="responsive-img" src="imgs/04Nachher/2017-12RondorfNachher.jpg">
         <img class="responsive-img" src="imgs/04Nachher/2017-13RondorfNachher.jpg">
         <img class="responsive-img" src="imgs/04Nachher/2017-14RondorfNachher.jpg">
-        <img class="responsive-img" src="imgs/04Nachher/2017-15RondorfNachher.jpg">
         <img class="responsive-img" src="imgs/04Nachher/2017-16RondorfNachher.jpg">
         <img class="responsive-img" src="imgs/04Nachher/2017-17RondorfNachher.jpg">
 

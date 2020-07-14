@@ -16,13 +16,13 @@
             include_once('../partials/header.php');
         ?>
 
-        <img class="responsive-img" src="imgs/04Nachher/2019-02BonnNachher.jpg" alt="Bild">
-        <img class="responsive-img" src="imgs/04Nachher/2019-01BonnNachher.jpg" alt="Bild">
-        <img class="responsive-img" src="imgs/04Nachher/2019-03BonnNachher.jpg" alt="Bild">
-        <img class="responsive-img" src="imgs/04Nachher/2019-04BonnNachher.jpg" alt="Bild">
-        <img class="responsive-img" src="imgs/04Nachher/2019-05BonnNachher.jpg" alt="Bild">
-        <img class="responsive-img" src="imgs/04Nachher/2019-07BonnNachher.jpg" alt="Bild">
-        <img class="responsive-img" src="imgs/04Nachher/2019-08BonnNachher.jpg" alt="Bild">
+        <img class="responsive-img" src="imgs/01Vorher/2019-02BonnVorher.jpg" alt="Bild">
+        <img class="responsive-img" src="imgs/01Vorher/2019-01BonnVorher.jpg" alt="Bild">
+        <img class="responsive-img" src="imgs/01Vorher/2019-03BonnVorher.jpg" alt="Bild">
+        <img class="responsive-img" src="imgs/01Vorher/2019-04BonnVorher.jpg" alt="Bild">
+        <img class="responsive-img" src="imgs/01Vorher/2019-05BonnVorher.jpg" alt="Bild">
+        <img class="responsive-img" src="imgs/01Vorher/2019-07BonnVorher.jpg" alt="Bild">
+        <img class="responsive-img" src="imgs/01Vorher/2019-08BonnVorher.jpg" alt="Bild">
 
     </main>
     <?php 
