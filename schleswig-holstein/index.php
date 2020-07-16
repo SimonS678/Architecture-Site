@@ -29,8 +29,9 @@
         Minimallösung für ein Solitärhaus.<br> 
         </p>
 
-            <img class="responsive-img" src="imgs/04Gebaut/2013-03KöthelGebaut.jpg" alt="Bild">
-            <img class="responsive-img" src="imgs/04Gebaut/2013-05KöthelGebaut.jpg" alt="Bild">
+        <img class="responsive-img" src="imgs/04Gebaut/2013-05KöthelGebaut.jpg" alt="Bild">
+        <img class="responsive-img" src="imgs/04Gebaut/2013-03KöthelGebaut.jpg" alt="Bild">
+            
        
 
     </main>
