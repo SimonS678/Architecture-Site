@@ -9,7 +9,7 @@
     <main>
     <?php
             $siteInfo = '2015 Swisttal-Heimerzheim';
-            $link1 = ['vorher.php','Vorher', ''];
+            $link1 = ['ansichten.php','Ansichten', ''];
             $link2 = ['planung.php','Planung', 'active'];
             $links = [$link1, $link2];
             include_once('../partials/header.php');
