@@ -18,3 +18,4 @@ E-mail: <a href="mailto:architektur@kai-matzak.de">architektur@kai-matzak.de</a>
         </div>
     </div>
 </footer>
+<script src="../js/app.js"></script>

@@ -15,3 +15,14 @@
 
 		new Splide( '.splide', sliderConfig).mount( window.splide.Extensions );
 	} );
+
+const clickfield = document.querySelector('.kontakt__text');
+const infobox = document.querySelector('.kontakt__slide-container');
+
+clickfield.addEventListener('click', function(){
+	if (infobox.classList.contains("opened")) {
+		infobox.classList.remove("opened")
+	} else {
+		infobox.classList.add("opened")
+	}
+})
