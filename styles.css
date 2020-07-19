@@ -555,6 +555,9 @@ nav a:last-child{
   .kontakt__container--home {
     top: calc(150vw + 103px);
   }
+  .text-padding{
+    padding: 0px 16px;
+  }
 }
 
 .responsive-img{
