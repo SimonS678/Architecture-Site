@@ -16,8 +16,11 @@
             include_once('../partials/header.php');
         ?>
 
-        <img class="responsive-img" src="imgs/01Vorher/2011-01PulheimVorher.jpg" alt="Bild">
-        <img class="responsive-img" src="imgs/01Vorher/2011-02PulheimVorher.jpg" alt="Bild">
+        <div class="slide__container slide__grid_2 slide__grid--margin">
+            <div class="slide__left" style="background-image: url(imgs/01Vorher/2011-01PulheimVorher.jpg);"></div> 
+            <div class="slide__right-up" style="background-image: url(imgs/01Vorher/2011-02PulheimVorher.jpg);"></div>
+        </div>
+
         <img class="responsive-img" src="imgs/01Vorher/2011-03PulheimVorher.jpg" alt="Bild">
         <img class="responsive-img" src="imgs/01Vorher/2011-04PulheimVorher.jpg" alt="Bild">
 

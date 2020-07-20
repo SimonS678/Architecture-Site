@@ -35,10 +35,8 @@
             <div class="slide__right-up" style="background-image: url(imgs/04Nachher/2010-05OverstolzenNachher.jpg);"></div>
         </div>
 
-        <img class="responsive-img" src="imgs/04Nachher/2010-06OverstolzenNachher.jpg">
         <img class="responsive-img" src="imgs/04Nachher/2010-07OverstolzenNachher.jpg">
-
-
+        <img class="responsive-img" src="imgs/04Nachher/2010-06OverstolzenNachher.jpg">
     </main>
     <?php 
         include_once('../partials/footer.php');
