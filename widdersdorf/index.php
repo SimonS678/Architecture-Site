@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+jpg<!DOCTYPE html>
 <html lang="de">
 <?php
     $title = 'Kai Matzak Architekt 2014 Köln Widdersdorf';
@@ -17,9 +17,9 @@
         ?>
         
         <div class="slide__container slide__grid">
-            <div class="slide__left" style="background-image: url(imgs/04Nachher/2014-01WiddersdorfNachher.JPG);"></div> 
-            <div class="slide__right-up" style="background-image: url(imgs/04Nachher/2014-03WiddersdorfNachher.JPG);"></div>
-            <div class="slide__right-down" style="background-image: url(imgs/04Nachher/2014-07WiddersdorfNachher.JPG);"></div>
+            <div class="slide__left" style="background-image: url(imgs/04Nachher/2014-01WiddersdorfNachher.jpg);"></div> 
+            <div class="slide__right-up" style="background-image: url(imgs/04Nachher/2014-03WiddersdorfNachher.jpg);"></div>
+            <div class="slide__right-down" style="background-image: url(imgs/04Nachher/2014-07WiddersdorfNachher.jpg);"></div>
         </div>
 
         <p class="caption" ><strong>2014 Köln Widdersdorf</strong> 
@@ -28,30 +28,30 @@
 
 
         <div class="slide__container slide__grid slide__grid--margin">
-            <div class="slide__left" style="background-image: url(imgs/04Nachher/2014-02WiddersdorfNachher.JPG);"></div> 
-            <div class="slide__right-up" style="background-image: url(imgs/04Nachher/2014-09WiddersdorfNachher.JPG);"></div>
-            <div class="slide__right-down" style="background-image: url(imgs/04Nachher/2014-10WiddersdorfNachher.JPG);"></div>
+            <div class="slide__left" style="background-image: url(imgs/04Nachher/2014-02WiddersdorfNachher.jpg);"></div> 
+            <div class="slide__right-up" style="background-image: url(imgs/04Nachher/2014-09WiddersdorfNachher.jpg);"></div>
+            <div class="slide__right-down" style="background-image: url(imgs/04Nachher/2014-10WiddersdorfNachher.jpg);"></div>
         </div>
 
         <div class="slide__container slide__grid slide__grid--margin">
-            <div class="slide__left" style="background-image: url(imgs/04Nachher/2014-04WiddersdorfNachher.JPG);"></div> 
-            <div class="slide__right-up" style="background-image: url(imgs/04Nachher/2014-11WiddersdorfNachher.JPG);"></div>
-            <div class="slide__right-down" style="background-image: url(imgs/04Nachher/2014-12WiddersdorfNachher.JPG);"></div>
+            <div class="slide__left" style="background-image: url(imgs/04Nachher/2014-04WiddersdorfNachher.jpg);"></div> 
+            <div class="slide__right-up" style="background-image: url(imgs/04Nachher/2014-11WiddersdorfNachher.jpg);"></div>
+            <div class="slide__right-down" style="background-image: url(imgs/04Nachher/2014-12WiddersdorfNachher.jpg);"></div>
         </div>
 
         <div class="slide__container slide__grid_2 slide__grid--margin">
-            <div class="slide__left" style="background-image: url(imgs/04Nachher/2014-05WiddersdorfNachher.JPG);"></div> 
-            <div class="slide__right-up" style="background-image: url(imgs/04Nachher/2014-06WiddersdorfNachher.JPG);"></div>
+            <div class="slide__left" style="background-image: url(imgs/04Nachher/2014-05WiddersdorfNachher.jpg);"></div> 
+            <div class="slide__right-up" style="background-image: url(imgs/04Nachher/2014-06WiddersdorfNachher.jpg);"></div>
         </div>
 
         <div class="slide__container slide__grid_2 slide__grid--margin">
-            <div class="slide__left" style="background-image: url(imgs/04Nachher/2014-08WiddersdorfNachher.JPG);"></div> 
-            <div class="slide__right-up" style="background-image: url(imgs/04Nachher/2014-13WiddersdorfNachher.JPG);"></div>
+            <div class="slide__left" style="background-image: url(imgs/04Nachher/2014-08WiddersdorfNachher.jpg);"></div> 
+            <div class="slide__right-up" style="background-image: url(imgs/04Nachher/2014-13WiddersdorfNachher.jpg);"></div>
         </div>
 
         <div class="slide__container slide__grid_2 slide__grid--margin">
-            <div class="slide__left" style="background-image: url(imgs/04Nachher/2014-14WiddersdorfNachher.JPG);"></div> 
-            <div class="slide__right-up" style="background-image: url(imgs/04Nachher/2014-15WiddersdorfNachher.JPG);"></div>
+            <div class="slide__left" style="background-image: url(imgs/04Nachher/2014-14WiddersdorfNachher.jpg);"></div> 
+            <div class="slide__right-up" style="background-image: url(imgs/04Nachher/2014-15WiddersdorfNachher.jpg);"></div>
         </div>
 
     </main>
