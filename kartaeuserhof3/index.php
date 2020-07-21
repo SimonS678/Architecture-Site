@@ -69,16 +69,16 @@
             <div class="slide__right-down" style="background-image: url(imgs/04Nachher/2014-29K19-3Nachher.jpg);"></div>
         </div>
 
-        <img class="responsive-img" src="imgs/04Nachher/2014-30K19-3Nachher.JPG" alt="Bild">
+        <img class="responsive-img" src="imgs/04Nachher/2014-30K19-3Nachher.jpg" alt="Bild">
 
         <div class="slide__container slide__grid_2 slide__grid--margin">
-            <div class="slide__left" style="background-image: url(imgs/04Nachher/2014-19K19-3Nachher.JPG);"></div> 
-            <div class="slide__right-up" style="background-image: url(imgs/04Nachher/2014-20K19-3Nachher.JPG);"></div>
+            <div class="slide__left" style="background-image: url(imgs/04Nachher/2014-19K19-3Nachher.jpg);"></div> 
+            <div class="slide__right-up" style="background-image: url(imgs/04Nachher/2014-20K19-3Nachher.jpg);"></div>
         </div>
 
         <div class="slide__container slide__grid_2 slide__grid--margin">
-            <div class="slide__left" style="background-image: url(imgs/04Nachher/2014-22K19-3Nachher.JPG);"></div> 
-            <div class="slide__right-up" style="background-image: url(imgs/04Nachher/2014-23K19-3Nachher.JPG);"></div>
+            <div class="slide__left" style="background-image: url(imgs/04Nachher/2014-22K19-3Nachher.jpg);"></div> 
+            <div class="slide__right-up" style="background-image: url(imgs/04Nachher/2014-23K19-3Nachher.jpg);"></div>
         </div>
 
     </main>

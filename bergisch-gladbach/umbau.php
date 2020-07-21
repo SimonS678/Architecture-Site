@@ -23,13 +23,13 @@
             <div class="slide__right-down" style="background-image: url(imgs/03Umbau/2011-02GLUmbau.jpg);"></div>
         </div>
 
-        <img class="responsive-img" src="imgs/03Umbau/2011-03GLumbau.jpg" alt="Bild">
-        <img class="responsive-img" src="imgs/03Umbau/2011-04GLumbau.jpg" alt="Bild">
-        <img class="responsive-img" src="imgs/03Umbau/2011-05GLumbau.jpg" alt="Bild">
-        <img class="responsive-img" src="imgs/03Umbau/2011-06GLumbau.jpg" alt="Bild">
-        <img class="responsive-img" src="imgs/03Umbau/2011-07GLumbau.jpg" alt="Bild">
-        <img class="responsive-img" src="imgs/03Umbau/2011-08GLumbau.jpg" alt="Bild">
-        <img class="responsive-img" src="imgs/03Umbau/2011-09GLumbau.jpg" alt="Bild">
+        <img class="responsive-img" src="imgs/03Umbau/2011-03GLUmbau.jpg" alt="Bild">
+        <img class="responsive-img" src="imgs/03Umbau/2011-04GLUmbau.jpg" alt="Bild">
+        <img class="responsive-img" src="imgs/03Umbau/2011-05GLUmbau.jpg" alt="Bild">
+        <img class="responsive-img" src="imgs/03Umbau/2011-06GLUmbau.jpg" alt="Bild">
+        <img class="responsive-img" src="imgs/03Umbau/2011-07GLUmbau.jpg" alt="Bild">
+        <img class="responsive-img" src="imgs/03Umbau/2011-08GLUmbau.jpg" alt="Bild">
+        <img class="responsive-img" src="imgs/03Umbau/2011-09GLUmbau.jpg" alt="Bild">
 
     </main>
     <?php 

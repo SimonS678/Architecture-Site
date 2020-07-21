@@ -21,12 +21,12 @@
         <br>Planung für einen Umbau eines Vorkriegs-Mehrfamilienhauses. <br>
             Barrierefreier Umbau von Dachgeschoss und Spitzboden</p>
 
-        <img class="responsive-img" src="imgs/01Vorher/2014-02MuelheimVorher.JPG" alt="Bild">
-        <img class="responsive-img" src="imgs/01Vorher/2014-03MuelheimVorher.JPG" alt="Bild">
-        <img class="responsive-img" src="imgs/01Vorher/2014-04MuelheimVorher.JPG" alt="Bild">
-        <img class="responsive-img" src="imgs/01Vorher/2014-05MuelheimVorher.JPG" alt="Bild">
-        <img class="responsive-img" src="imgs/01Vorher/2014-06MuelheimVorher.JPG" alt="Bild">
-        <img class="responsive-img" src="imgs/01Vorher/2014-07MuelheimVorher.JPG" alt="Bild">
+        <img class="responsive-img" src="imgs/01Vorher/2014-02MuelheimVorher.jpg" alt="Bild">
+        <img class="responsive-img" src="imgs/01Vorher/2014-03MuelheimVorher.jpg" alt="Bild">
+        <img class="responsive-img" src="imgs/01Vorher/2014-04MuelheimVorher.jpg" alt="Bild">
+        <img class="responsive-img" src="imgs/01Vorher/2014-05MuelheimVorher.jpg" alt="Bild">
+        <img class="responsive-img" src="imgs/01Vorher/2014-06MuelheimVorher.jpg" alt="Bild">
+        <img class="responsive-img" src="imgs/01Vorher/2014-07MuelheimVorher.jpg" alt="Bild">
         
     </main>
     <?php 
