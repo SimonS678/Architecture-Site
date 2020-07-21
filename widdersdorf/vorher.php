@@ -16,16 +16,16 @@
             include_once('../partials/header.php');
         ?>
 
-        <img class="responsive-img" src="imgs/01Vorher/2014-01WiddersdorfVorher.JPG" alt="Bild">
-        <img class="responsive-img" src="imgs/01Vorher/2014-02WiddersdorfVorher.JPG" alt="Bild">
-        <img class="responsive-img" src="imgs/01Vorher/2014-03WiddersdorfVorher.JPG" alt="Bild">
-        <img class="responsive-img" src="imgs/01Vorher/2014-04WiddersdorfVorher.JPG" alt="Bild">
-        <img class="responsive-img" src="imgs/01Vorher/2014-05WiddersdorfVorher.JPG" alt="Bild">
-        <img class="responsive-img" src="imgs/01Vorher/2014-06WiddersdorfVorher.JPG" alt="Bild">
-        <img class="responsive-img" src="imgs/01Vorher/2014-07WiddersdorfVorher.JPG" alt="Bild">
-        <img class="responsive-img" src="imgs/01Vorher/2014-08WiddersdorfVorher.JPG" alt="Bild">
-        <img class="responsive-img" src="imgs/01Vorher/2014-09WiddersdorfVorher.JPG" alt="Bild">
-        <img class="responsive-img" src="imgs/01Vorher/2014-10WiddersdorfVorher.JPG" alt="Bild">
+        <img class="responsive-img" src="imgs/01Vorher/2014-01WiddersdorfVorher.jpg" alt="Bild">
+        <img class="responsive-img" src="imgs/01Vorher/2014-02WiddersdorfVorher.jpg" alt="Bild">
+        <img class="responsive-img" src="imgs/01Vorher/2014-03WiddersdorfVorher.jpg" alt="Bild">
+        <img class="responsive-img" src="imgs/01Vorher/2014-04WiddersdorfVorher.jpg" alt="Bild">
+        <img class="responsive-img" src="imgs/01Vorher/2014-05WiddersdorfVorher.jpg" alt="Bild">
+        <img class="responsive-img" src="imgs/01Vorher/2014-06WiddersdorfVorher.jpg" alt="Bild">
+        <img class="responsive-img" src="imgs/01Vorher/2014-07WiddersdorfVorher.jpg" alt="Bild">
+        <img class="responsive-img" src="imgs/01Vorher/2014-08WiddersdorfVorher.jpg" alt="Bild">
+        <img class="responsive-img" src="imgs/01Vorher/2014-09WiddersdorfVorher.jpg" alt="Bild">
+        <img class="responsive-img" src="imgs/01Vorher/2014-10WiddersdorfVorher.jpg" alt="Bild">
         
     </main>
     <?php 

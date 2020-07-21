@@ -8,7 +8,7 @@
 <body>
     <main>
         <?php
-            $siteInfo = '2009 Köln-Deutzk';
+            $siteInfo = '2009 Köln-Deutz';
             $link3 = ['umbau.php','Umbau', ''];
             $link4 = ['index.php','Nachher', 'active'];
             $links = [$link3, $link4];
