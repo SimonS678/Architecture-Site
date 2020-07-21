@@ -19,8 +19,8 @@
 
         <div class="slide__container slide__grid slide__grid--margin">
             <div class="slide__left" style="background-image: url(imgs/02Planung/2011-01KGGLPlanung.jpg);"></div> 
-            <div class="slide__right-up" style="background-image: url(imgs/02Planung/2011-05Süd-WestGLPlanung.jpg);"></div>
-            <div class="slide__right-down" style="background-image: url(imgs/02Planung/2011-06SüdOstGLPlanung.jpg);"></div>
+            <div class="slide__right-up" style="background-image: url(imgs/02Planung/2011-05Sued-WestGLPlanung.jpg);"></div>
+            <div class="slide__right-down" style="background-image: url(imgs/02Planung/2011-06SuedOstGLPlanung.jpg);"></div>
         </div>
 
         <div class="slide__container slide__grid slide__grid--margin">
