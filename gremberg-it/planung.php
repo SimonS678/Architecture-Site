@@ -17,12 +17,12 @@
             include_once('../partials/header.php');
         ?>
 
-        <img class="responsive-img" src="imgs/02Planung/2016-01GfUPlanung.jpg" alt="Bild">
-        <img class="responsive-img" src="imgs/02Planung/2016-02GfUPlanung.jpg" alt="Bild">
-        <img class="responsive-img" src="imgs/02Planung/2016-03GfUPlanung.jpg" alt="Bild">
-        <img class="responsive-img" src="imgs/02Planung/2016-04GfUPlanung.jpg" alt="Bild">
-        <img class="responsive-img" src="imgs/02Planung/2016-05GfUPlanung.jpg" alt="Bild">
-        <img class="responsive-img" src="imgs/02Planung/2016-06GfUPlanung.jpg" alt="Bild">
+        <img class="responsive-img" src="imgs/02Planung/2016-01GfUplanung.jpg" alt="Bild">
+        <img class="responsive-img" src="imgs/02Planung/2016-02GfUplanung.jpg" alt="Bild">
+        <img class="responsive-img" src="imgs/02Planung/2016-03GfUplanung.jpg" alt="Bild">
+        <img class="responsive-img" src="imgs/02Planung/2016-04GfUplanung.jpg" alt="Bild">
+        <img class="responsive-img" src="imgs/02Planung/2016-05GfUplanung.jpg" alt="Bild">
+        <img class="responsive-img" src="imgs/02Planung/2016-06GfUplanung.jpg" alt="Bild">
         <img class="responsive-img" src="imgs/02Planung/2016-07GfUplanung.jpg" alt="Bild">
        
     </main>
