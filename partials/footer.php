@@ -2,9 +2,9 @@
     <div class="footer-container">
         <div></div>
         <div class="footer-links">
-            <a href="#">Impressum</a>
-            <a href="#">Datenschutz</a>
-            <a href="#">Energiepass</a>
+            <a href="../impressum.html">Impressum</a>
+            <a href="../datenschutz.html">Datenschutz</a>
+            <a href="../energiepass.html">Energiepass</a>
         </div>
         <div class="contactinfo"><strong>Kai Matzak</strong><br>
 Freier Architekt<br>

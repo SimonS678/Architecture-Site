@@ -15,7 +15,7 @@
             include_once('../partials/header.php');
         ?>
         
-        <img class="responsive-img.no-margin" src="imgs/01Vorher/2018-02KindergartenVorher.jpg">
+        <img class="responsive-img no-margin" src="imgs/01Vorher/2018-02KindergartenVorher.jpg">
 
         <p class="caption"><strong>2018 - 2019 Köln Südstadt</strong><br>Kindergarten in privater Trägerschaft
             LPH 1-4

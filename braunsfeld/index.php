@@ -17,7 +17,7 @@
             include_once('../partials/header.php');
         ?>
         
-        <img class="responsive-img.no-margin" src="imgs/04Nachher/2015-01BraunsfeldNachher.jpg" alt="Bild">
+        <img class="responsive-img no-margin" src="imgs/04Nachher/2015-01BraunsfeldNachher.jpg" alt="Bild">
 
         <p class="caption" ><strong>2015 Köln Braunsfeld</strong> 
         <br>Umbau und Sanierung eines großen Einfamilienhauses in ein Mehrgenerationenhaus.<br></p>

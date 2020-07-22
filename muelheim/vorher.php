@@ -15,7 +15,7 @@
             include_once('../partials/header.php');
         ?>
 
-        <img class="responsive-img.no-margin" src="imgs/01Vorher/2014-01MuelheimVorher.JPG" alt="Bild">
+        <img class="responsive-img no-margin" src="imgs/01Vorher/2014-01MuelheimVorher.JPG" alt="Bild">
 
         <p class="caption" ><strong>2014 Köln Mülheim</strong> 
         <br>Planung für einen Umbau eines Vorkriegs-Mehrfamilienhauses. <br>

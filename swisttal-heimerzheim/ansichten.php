@@ -15,7 +15,7 @@
             include_once('../partials/header.php');
         ?>
 
-        <img class="responsive-img.no-margin" src="imgs/01Ansichten/2015-01SwisttalAnsicht.jpg" alt="Bild">
+        <img class="responsive-img no-margin" src="imgs/01Ansichten/2015-01SwisttalAnsicht.jpg" alt="Bild">
 
         <p class="caption" ><strong>2015 Swisttal-Heimerzheim</strong> 
         <br>Neubauplanung für ein Bürogebäude für eine Gerüstbaufirma
