@@ -34,8 +34,6 @@
             <div class="slide__right-up" style="background-image: url(imgs/03Umbau/2020-05HoeningerUmbau.jpg);"></div>
         </div>
 
-
-
     </main>
     <?php 
         include_once('../partials/footer.php');

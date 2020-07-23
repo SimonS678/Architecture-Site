@@ -18,8 +18,8 @@
         ?>
         
         <div class="slide__container slide__grid_2 slide__grid--margin">
-            <div class="slide__left" style="background-image: url(imgs/02Planung/20-05-15AnsichtStraßeHoeningerWeg288.pln Kopie.jpg);"></div> 
-            <div class="slide__right-up" style="background-image: url(imgs/02Planung/20-05-15GrundrissHoeningerWeg288.pln Kopie.jpg);"></div>
+            <div class="slide__left" style="background-image: url(imgs/02Planung/20-05-15AnsichtStraßeHoeningerWeg288.jpg);"></div> 
+            <div class="slide__right-up" style="background-image: url(imgs/02Planung/20-05-15GrundrissHoeningerWeg288.jpg);"></div>
         </div>
 
         <img class="responsive-img" src="imgs/02Planung/20-05-15SchnittA-AHoeningerWeg288.pln Kopie.jpg" alt="Bild">
