@@ -27,11 +27,11 @@
         </p>
 
         <div class="slide__container slide__grid_2 slide__grid--margin">
-            <div class="slide__left" style="background-image: url(imgs/04Nachher/2011-02PulheimNachher.JPG);"></div> 
-            <div class="slide__right-up" style="background-image: url(imgs/04Nachher/2011-03PulheimNachher.JPG);"></div>
+            <div class="slide__left" style="background-image: url(imgs/04Nachher/2011-02PulheimNachher.jpg);"></div> 
+            <div class="slide__right-up" style="background-image: url(imgs/04Nachher/2011-03PulheimNachher.jpg);"></div>
         </div>
 
-        <img class="responsive-img" src="imgs/04Nachher/2011-05PulheimNachher.JPG">
+        <img class="responsive-img" src="imgs/04Nachher/2011-05PulheimNachher.jpg">
 
     </main>
     <?php 

@@ -22,7 +22,8 @@
             <div class="slide__right-down" style="background-image: url(imgs/04Nachher/2015-02BadGodesbergNachher.jpg);"></div>
         </div>
 
-        <p class="caption" ><strong>2015 Bonn Bad Godesberg</strong> <br>Falscher Text Text Helsinki</p>
+        <p class="caption" ><strong>2015 Bonn Bad Godesberg</strong>
+        <br>Sanierung einer weitläufigen 60er-Jahre-Wohnung in Bonn Bad-Godesberg am Rhein.</p>
 
             <img class="responsive-img" src="imgs/04Nachher/2015-03BadGodesbergNachher.jpg" alt="Bild">
             <img class="responsive-img" src="imgs/04Nachher/2015-04BadGodesbergNachher.jpg" alt="Bild">

@@ -1,4 +1,4 @@
-jpg<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="de">
 <?php
     $title = 'Kai Matzak Architekt 2014 Köln Widdersdorf';
