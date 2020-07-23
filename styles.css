@@ -26,6 +26,9 @@ header {
   height: 170px;
   position: relative;
 }
+header.has-no-navigation{
+  height: 125px;
+}
 
 footer {
   background-color: #898989;
@@ -259,7 +262,7 @@ nav a:last-child{
 .site-info{
   text-align: center;
   position: absolute;
-  top: 97px;
+  top: 100px;
   width: 100%;
   font-weight: bold;
   font-size: 16px;
@@ -277,8 +280,11 @@ nav a:last-child{
   top: 150px;
   width: 300px;
   height: 240px;
-  z-index: 10000;
+  z-index: 1;
   overflow: hidden;
+}
+.kontakt__container.opened{
+  z-index: 10000;
 }
 
 .kontakt__slide-container{
@@ -335,8 +341,11 @@ nav a:last-child{
   header {
     height: 155px;
   }
+  header.has-no-navigation{
+    height: 85px;
+  }
   .site-info{
-    top: 77px;
+    top: 85px;
   }
   .slide__container {
     height: 685px;
@@ -531,7 +540,7 @@ nav a:last-child{
   }
 
   .site-info{
-    top: 64px;
+    top: 68px;
     font-size: 14px;
   }
 

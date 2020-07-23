@@ -18,11 +18,14 @@
 
 const clickfield = document.querySelector('.kontakt__text');
 const infobox = document.querySelector('.kontakt__slide-container');
+const container = document.querySelector('.kontakt__container');
 
 clickfield.addEventListener('click', function(){
 	if (infobox.classList.contains("opened")) {
-		infobox.classList.remove("opened")
+		infobox.classList.remove("opened");
+		container.classList.remove("opened");
 	} else {
-		infobox.classList.add("opened")
+		infobox.classList.add("opened");
+		container.classList.add("opened");
 	}
 })

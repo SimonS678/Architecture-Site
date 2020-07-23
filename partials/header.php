@@ -19,8 +19,8 @@
 <div class="kontakt__container">
     <div class="kontakt__slide-container">
         <div class="kontakt__text"><div class="kontakt__text-inner">KONTAKT</div></div>
-        <div class="kontakt__info">Freier Architekt<br>
-            Kai Matzak<br>
+        <div class="kontakt__info">Kai Matzak<br>
+            Freier Architekt<br>
             Diplom Ingenieur AKNW<br>
             Master of Architecture<br><br>
             Kartäuserhof 19<br>
