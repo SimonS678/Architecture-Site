@@ -33,7 +33,10 @@
             <div class="slide__right-up" style="background-image: url(imgs/02Planung/2008-06PlanungNord-Ost.jpg);"></div>
         </div>
 
-        <img class="responsive-img" src="imgs/02Planung/2008-08PlanungSued-West.jpg" alt="Bild">
+        <div class="slide__container slide__grid_2 slide__grid--margin">
+            <div class="slide__left" style="background-image: url(imgs/02Planung/2008-08PlanungSued-West.jpg);"></div> 
+            <div class="slide__right-up"></div>
+        </div>
 
     </main>
     <?php 
