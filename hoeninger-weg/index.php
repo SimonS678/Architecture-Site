@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html lang="de">
 <?php
-    $title = 'Kai Matzak Architekt 2018-2019 Köln Zollstock';
+    $title = 'Kai Matzak Architekt 2019-2020 Köln Zollstock';
     include_once('../partials/head.php')
 ?>
 
 <body>
     <main>
         <?php
-            $siteInfo = '2018-2019 Köln Zollstock';
+            $siteInfo = '2019-2020 Köln Zollstock';
             $link1 = ['vorher.php','Vorher', ''];
             $link2 = ['planung.php','Planung', ''];
             $link3 = ['umbau.php','Umbau', ''];
@@ -23,8 +23,7 @@
             <div class="slide__right-down" style="background-image: url(imgs/04Nachher/2020-05HoeningerNachher.jpg);"></div>
         </div>
 
-        <p class="caption" ><strong>2018-2019 Köln Zollstock</strong> 
-            <br>Umbau Kneipe in Wohnung
+        <p class="caption" ><strong>2019-2020 Köln Zollstock</strong> 
             <br>Nutzungsänderung Gaststätte in Wohnraum.
             
             <br>Entkernung, Umbau, Sanierung und Brandschutzertüchtigung einer brachliegenden Kölner Kneipe in 2 Wohneinheiten im Kölner Süden.

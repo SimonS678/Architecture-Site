@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html lang="de">
 <?php
-    $title = 'Kai Matzak Architekt 2018-2019 Köln Zollstock';
+    $title = 'Kai Matzak Architekt 2019-2020 Köln Zollstock';
     include_once('../partials/head.php')
 ?>
 
 <body>
     <main>
     <?php
-            $siteInfo = '2018-2019 Köln Zollstock';
+            $siteInfo = '2019-2020 Köln Zollstock';
             $link1 = ['vorher.php','Vorher', ''];
             $link2 = ['planung.php','Planung', 'active'];
             $link3 = ['umbau.php','Umbau', ''];
