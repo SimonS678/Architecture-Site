@@ -16,9 +16,9 @@
         ?>
 
         <div class="slide__container slide__grid">
-            <div class="slide__left" style="background-image: url(imgs/01Ansichten/2006-04NeubauDünnwald.jpg);"></div> 
-            <div class="slide__right-up" style="background-image: url(imgs/01Ansichten/2006-01NeubauDünnwald.jpg);"></div>
-            <div class="slide__right-down" style="background-image: url(imgs/01Ansichten/2006-02NeubauDünnwald.jpg);"></div>
+            <div class="slide__left" style="background-image: url(imgs/01Ansichten/2006-04NeubauDuennwald.jpg);"></div> 
+            <div class="slide__right-up" style="background-image: url(imgs/01Ansichten/2006-01NeubauDuennwald.jpg);"></div>
+            <div class="slide__right-down" style="background-image: url(imgs/01Ansichten/2006-02NeubauDuennwald.jpg);"></div>
         </div>
 
         <p class="caption" ><strong>2006 Köln Dünnwald</strong> 
@@ -27,8 +27,8 @@
         
         </p>
 
-        <img class="responsive-img" src="imgs/01Ansichten/2006-03NeubauDünnwald.jpg" alt="Bild">
-        <img class="responsive-img" src="imgs/01Ansichten/2006-05NeubauDünnwald.jpg" alt="Bild">
+        <img class="responsive-img" src="imgs/01Ansichten/2006-03NeubauDuennwald.jpg" alt="Bild">
+        <img class="responsive-img" src="imgs/01Ansichten/2006-05NeubauDuennwald.jpg" alt="Bild">
 
     </main>
     <?php 
