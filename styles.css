@@ -354,7 +354,7 @@ nav a:last-child{
     height: 661px;
   }
   .splide__arrow {
-    display: none;
+    /* display: none; */
   }
   .project{
     height: 152px;
@@ -410,7 +410,7 @@ nav a:last-child{
     width: 100%;
   }
   .splide__arrow {
-    display: none;
+    /* display: none; */
   }
   .projectgrid{
     grid-template-columns: 1fr 1fr 1fr 1fr;
