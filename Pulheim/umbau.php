@@ -20,8 +20,9 @@
         <img class="responsive-img" src="imgs/03Umbau/2011-05PulheimUmbau.jpg" alt="Bild">
         <img class="responsive-img" src="imgs/03Umbau/2011-03PulheimUmbau.jpg" alt="Bild">
         <img class="responsive-img" src="imgs/03Umbau/2011-04PulheimUmbau.jpg" alt="Bild">
-        <img class="responsive-img" src="imgs/03Umbau/2011-02PulheimUmbau.jpg" alt="Bild">
         <img class="responsive-img" src="imgs/03Umbau/2011-06PulheimUmbau.jpg" alt="Bild">
+        <img class="responsive-img" src="imgs/03Umbau/2011-02PulheimUmbau.jpg" alt="Bild">
+        
 
     </main>
     <?php 
