@@ -38,8 +38,12 @@
             <div class="slide__right-down" style="background-image: url(imgs/1997-10PlanPavillion.jpg);"></div>
         </div>
 
-        <img class="responsive-img" src="imgs/1997-08BildPavillion.jpg" alt="Bild">
         <img class="responsive-img" src="imgs/1997-11PlanPavillion.jpg" alt="Bild">
+
+        <div class="slide__container slide__grid_2 slide__grid--margin">
+            <div class="slide__left" style="background-image: url(imgs/1997-08BildPavillion.jpg);"></div> 
+            <div class="slide__right-up"></div>
+        </div>
        
     </main>
     <?php 
