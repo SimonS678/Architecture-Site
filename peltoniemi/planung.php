@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html lang="de">
 <?php
-    $title = 'Kai Matzak Architekt 1995 Finnland Haus Peltoniemi';
+    $title = 'Kai Matzak Architekt 1995 Finnland, Kuopio';
     include_once('../partials/head.php')
 ?>
 
 <body>
     <main>
     <?php
-            $siteInfo = '1995 Finnland Haus Peltoniemi';
+            $siteInfo = '1995 Finnland, Kuopio';
             include_once('../partials/header.php');
         ?>
 

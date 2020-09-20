@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html lang="de">
 <?php
-    $title = 'Kai Matzak Architekt 2007 Rieden, Rheinland-Pfalz (Eifel)';
+    $title = 'Kai Matzak Architekt 2007 Rieden (Eifel)';
     include_once('../partials/head.php')
 ?>
 
 <body>
     <main>
         <?php
-            $siteInfo = '2007 Rieden, Rheinland-Pfalz (Eifel)';
+            $siteInfo = '2007 Rieden (Eifel)';
             $link1 = ['vorher.php','Ansichten', 'active'];
             $link2 = ['planung.php','Planung', ''];
             $links = [$link1, $link2];

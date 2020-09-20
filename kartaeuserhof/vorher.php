@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html lang="de">
 <?php
-    $title = 'Kai Matzak Architekt Kartäuserhof 19, Köln';
+    $title = 'Kai Matzak Architekt Köln Severinsviertel';
     include_once('../partials/head.php')
 ?>
 
 <body>
     <main>
         <?php
-            $siteInfo = '2006, Kartäuserhof 19, Köln';
+            $siteInfo = '2006, Köln Severinsviertel';
             $link1 = ['vorher.php','Vorher', 'active'];
             $link2 = ['planung.php','Planung', ''];
             $link3 = ['umbau.php','Umbau', ''];

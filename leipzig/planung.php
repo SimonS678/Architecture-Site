@@ -1,16 +1,14 @@
 <!DOCTYPE html>
 <html lang="de">
 <?php
-    $title = 'Kai Matzak Architekt 1994 Leipzig
-    Stephanstraße';
+    $title = 'Kai Matzak Architekt 1994 Leipzig';
     include_once('../partials/head.php')
 ?>
 
 <body>
     <main>
     <?php
-            $siteInfo = '1994 Leipzig
-            Stephanstraße';
+            $siteInfo = '1994 Leipzig';
             include_once('../partials/header.php');
         ?>
 
