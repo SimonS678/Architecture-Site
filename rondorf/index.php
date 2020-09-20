@@ -39,8 +39,16 @@
         <img class="responsive-img" src="imgs/04Nachher/2017-14RondorfNachher.jpg">
         <img class="responsive-img" src="imgs/04Nachher/2017-16RondorfNachher.jpg">
         <img class="responsive-img" src="imgs/04Nachher/2017-17RondorfNachher.jpg">
-
-
+        <img class="responsive-img" src="imgs/04Nachher/2017-18RondorfNachher.jpg">
+        <div class="slide__container slide__grid_2 slide__grid--margin">
+            <div class="slide__left" style="background-image: url(imgs/04Nachher/2017-19RondorfNachher.jpg);"></div> 
+            <div class="slide__right-up" style="background-image: url(imgs/04Nachher/2017-21RondorfNachher.jpg);"></div>
+        </div>
+        <img class="responsive-img" src="imgs/04Nachher/2017-20RondorfNachher.jpg">
+        <div class="slide__container slide__grid_2 slide__grid--margin">
+            <div class="slide__left" style="background-image: url(imgs/04Nachher/2017-22RondorfNachher.jpg);"></div> 
+            <div class="slide__right-up" style="background-image: url(imgs/04Nachher/2017-23RondorfNachher.jpg);"></div>
+        </div>
     </main>
     <?php 
         include_once('../partials/footer.php');

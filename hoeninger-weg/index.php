@@ -52,6 +52,11 @@
             <div class="slide__right-up" style="background-image: url(imgs/04Nachher/2020-12HoeningerNachher.jpg);"></div>
         </div>
 
+        <div class="slide__container slide__grid_2 slide__grid--margin">
+            <div class="slide__left" style="background-image: url(imgs/04Nachher/2020-13HoeningerNachher.jpg);"></div> 
+            <div class="slide__right-up" style="background-image: url(imgs/04Nachher/2020-14HoeningerNachher.jpg);"></div>
+        </div>
+
     </main>
     <?php 
         include_once('../partials/footer.php');
