@@ -11,14 +11,14 @@
             $siteInfo = '2016 Köln Sürth';
             $link1 = ['vorher.php','Vorher', ''];
             $link2 = ['planung.php','Planung', ''];
-            $link3 = ['umbau.php','Umbau', 'active'];
+            $link3 = ['neubau.php','Neubau', 'active'];
             $link4 = ['index.php','Nachher', ''];
             $links = [$link1, $link2, $link3, $link4];
             include_once('../partials/header.php');
         ?>
-        
+
         <div class="slide__container slide__grid slide__grid--margin">
-            <div class="slide__left" style="background-image: url(imgs/03Umbau/2016-12SuerthUmbau.jpg);"></div> 
+            <div class="slide__left" style="background-image: url(imgs/03Umbau/2016-12SuerthUmbau.jpg);"></div>
             <div class="slide__right-up" style="background-image: url(imgs/03Umbau/2016-01SuerthUmbau.jpg);"></div>
             <div class="slide__right-down" style="background-image: url(imgs/03Umbau/2016-02SuerthUmbau.jpg);"></div>
         </div>
@@ -43,7 +43,7 @@
         <img class="responsive-img" src="imgs/03Umbau/2016-22SuerthUmbau.jpg" alt="Bild">
 
     </main>
-    <?php 
+    <?php
         include_once('../partials/footer.php');
     ?>
 </body>

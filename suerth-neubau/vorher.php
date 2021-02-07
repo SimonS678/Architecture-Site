@@ -11,7 +11,7 @@
             $siteInfo = '2016 Köln Sürth';
             $link1 = ['vorher.php','Vorher', 'active'];
             $link2 = ['planung.php','Planung', ''];
-            $link3 = ['umbau.php','Umbau', ''];
+            $link3 = ['neubau.php','Neubau', ''];
             $link4 = ['index.php','Nachher', ''];
             $links = [$link1, $link2, $link3, $link4];
             include_once('../partials/header.php');
@@ -27,9 +27,9 @@
         <img class="responsive-img" src="imgs/01Vorher/2016-08SuerthVorher.jpg" alt="Bild">
         <img class="responsive-img" src="imgs/01Vorher/2016-09SuerthVorher.jpg" alt="Bild">
         <img class="responsive-img" src="imgs/01Vorher/2016-10SuerthVorher.jpg" alt="Bild">
-        
+
     </main>
-    <?php 
+    <?php
         include_once('../partials/footer.php');
     ?>
 </body>

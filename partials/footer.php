@@ -4,7 +4,7 @@
         <div class="footer-links">
             <a href="../impressum.html">Impressum</a>
             <a href="../datenschutz.html">Datenschutz</a>
-            <a href="../energiepass.html">Energiepass</a>
+            <a href="../projektliste.html">Projektliste</a>
         </div>
         <div class="contactinfo"><strong>Kai Matzak</strong><br>
 Freier Architekt<br>
